@@ -27,4 +27,4 @@ SQL, MySQL, Power BI
 
 ## Dashboard Preview
 
-![Amazon Delivery Performance Dashboard](amazon-delivery-dashboard.png)
+![Amazon Delivery Performance Dashboard](Amazon-delivery-performance-dashboard.png)
